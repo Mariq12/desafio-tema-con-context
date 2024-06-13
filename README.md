@@ -5,9 +5,9 @@
 ### Descripción
 Curso de Hooks en ReactJS: conociendo su potencial y utilidad.
 
+![Completado](https://img.shields.io/badge/status-completado-brightgreen) 
 
-![En proceso](https://img.shields.io/badge/status-en_proceso-red)
- + ⏳ El desafío del tema con context.
++ ✔️ El desafío del tema con context.
 
 ## Desplegar el proyecto en GitHub Pages
 1. Agregar configuración en vite.config.js
