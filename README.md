@@ -40,7 +40,11 @@ Curso de Hooks en ReactJS: conociendo su potencial y utilidad.
 
 4. Ejecutar el comando:
 
-    npm run deploy
+        npm run deploy
+
+5. Comentar la carpeta dist de .gitignore
+
+        #dist
 
 ## Tecnología
 React + Vite
